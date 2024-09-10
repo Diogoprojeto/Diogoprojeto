@@ -7,7 +7,7 @@
 
 ![Diogo GitHub stats](https://github-readme-stats.vercel.app/api?username=Diogoprojeto&show_icons=true&theme=radical)
 
-### Tecnologias que uso no meu dia
+### 🖥️Tecnologias que uso no meu dia
 
 <div style='display: inline_block'><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -16,7 +16,7 @@
 
     Apaixonado por esse mundo tecnológico, a cada dia, busco expandir meus horizontes, adquirindo novos conhecimentos que me levam mais longe.
 
- ## Meu email: 
+ ## 📧Meu email: 
 
  - [diogaopix170606@gmail.com](diogaopix170606@gmail.com)
     
